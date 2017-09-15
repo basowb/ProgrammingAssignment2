@@ -1,4 +1,4 @@
-## The goal these functions is to first 
+## The goal of these functions is to first 
 ## 1: create a matrix 
 ## 2: cache the inverse matrix in an environemnt 
 
